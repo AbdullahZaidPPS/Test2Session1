@@ -1,1 +1,8 @@
+ gcc -g p4original.c
+ ./a.out
+Enter the index of the term you desire for
+8
+The 8 rd/th term of fibonacci series is 13 
+
+
 
