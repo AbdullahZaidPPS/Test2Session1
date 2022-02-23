@@ -1,1 +1,11 @@
-
+gcc -g p1original.c -lm
+ ./a.out
+Enter X1 value
+1
+enter Y1 value
+1
+enter the X2 value
+2
+enter the Y2 value
+2
+The distance between (1.000000,1.000000) and (2.000000,2.000000) is 1.414214 
